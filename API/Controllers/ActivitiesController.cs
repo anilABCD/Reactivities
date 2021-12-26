@@ -17,7 +17,7 @@ namespace API.Controllers
         {
             this._context = context;
 
-            var str ="";
+            
         }
 
         [HttpGet]
