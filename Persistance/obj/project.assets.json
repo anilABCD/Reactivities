@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anilkumarpotlapally/udemy/Reactivities/Persistance/Persistance.csproj",
+      "projectUniqueName": "/Users/anilkumarpotlapally/Reactivities/Persistance/Persistance.csproj",
       "projectName": "Persistance",
-      "projectPath": "/Users/anilkumarpotlapally/udemy/Reactivities/Persistance/Persistance.csproj",
+      "projectPath": "/Users/anilkumarpotlapally/Reactivities/Persistance/Persistance.csproj",
       "packagesPath": "/Users/anilkumarpotlapally/.nuget/packages/",
-      "outputPath": "/Users/anilkumarpotlapally/udemy/Reactivities/Persistance/obj/",
+      "outputPath": "/Users/anilkumarpotlapally/Reactivities/Persistance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anilkumarpotlapally/.nuget/NuGet/NuGet.Config"
@@ -978,8 +978,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/anilkumarpotlapally/udemy/Reactivities/Domain/Domain.csproj": {
-              "projectPath": "/Users/anilkumarpotlapally/udemy/Reactivities/Domain/Domain.csproj"
+            "/Users/anilkumarpotlapally/Reactivities/Domain/Domain.csproj": {
+              "projectPath": "/Users/anilkumarpotlapally/Reactivities/Domain/Domain.csproj"
             }
           }
         }
